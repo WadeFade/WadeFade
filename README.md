@@ -35,8 +35,4 @@ Python project to scrape and retrieve schedules in iCal format.
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathis-gauthier/)
 - 🧩 [Bento](https://bento.me/mathis-gauthier)
 
-## 📊 GitHub Stats
-
-![WadeFade's GitHub stats](https://github-readme-stats.vercel.app/api?username=WadeFade&show_icons=true&theme=radical)
-
-<!-- N'hésite pas à me contacter pour collaborer ou discuter tech ! -->
+<!-- Feel free to contact me to collaborate or talk tech! -->
